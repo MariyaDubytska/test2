@@ -1,0 +1,24 @@
+{
+	"id": "6cc0cba0-5976-4a1b-8326-395c2af0c58a",
+	"values": [
+		{
+			"key": "globalURL",
+			"value": "https://httpbin.org/",
+			"enabled": true
+		},
+		{
+			"key": "orderID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "customerID",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"name": "QA TESTING Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-04-17T11:53:03.298Z",
+	"_postman_exported_using": "Postman/8.2.3"
+}

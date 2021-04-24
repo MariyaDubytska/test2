@@ -1,0 +1,19 @@
+{
+	"id": "f60aecf8-c13a-4864-9f51-1c21bf3b3a9f",
+	"name": "NEW_API",
+	"values": [
+		{
+			"key": "BaseURL",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "reusableTests",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-04-17T11:52:36.045Z",
+	"_postman_exported_using": "Postman/8.2.3"
+}
